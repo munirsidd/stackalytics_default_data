@@ -22980,6 +22980,18 @@
             "emails": ["msrinivasareddy@gmail.com", "srinivasa.muly@att.com"]
         },
         {
+            "launchpad_id": "munirsid",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+
+            ],
+            "user_name": "Munir Siddiqui",
+            "emails": ["munir.siddiqui@canonical.com"]
+        },
+        {
             "launchpad_id": "munnangi2010",
             "companies": [
                 {
